@@ -1,0 +1,162 @@
+[
+  {
+    "id": 101,
+    "name": "Air Canada",
+    "category": "compagnies aériennes",
+    "description": "La plus grande compagnie aérienne canadienne, offrant des vols nationaux et internationaux vers plus de 200 destinations, avec une flotte moderne et des services de haute qualité.",
+    "phone_number": "1-800-247-2262",
+    "website": "https://www.aircanada.com"
+  },
+  {
+    "id": 102,
+    "name": "WestJet",
+    "category": "compagnies aériennes",
+    "description": "La deuxième plus grande compagnie aérienne canadienne, offrant des vols nationaux et internationaux vers plus de 100 destinations, avec une approche axée sur le client et des tarifs compétitifs.",
+    "phone_number": "1-888-937-8538",
+    "website": "https://www.westjet.com"
+  },
+  {
+    "id": 103,
+    "name": "Air Transat",
+    "category": "compagnies aériennes",
+    "description": "Spécialisée dans les voyages d'agrément, offrant des vols vers des destinations touristiques populaires, avec une flotte moderne et des services de haute qualité.",
+    "phone_number": "1-877-872-6728",
+    "website": "https://www.airtransat.com"
+  },
+  {
+    "id": 104,
+    "name": "Porter Airlines",
+    "category": "compagnies aériennes",
+    "description": "Offrant des vols régionaux et nationaux, avec une approche axée sur le client et des tarifs compétitifs, ainsi qu'une expérience de vol unique avec ses avions à turbopropulseurs.",
+    "phone_number": "1-888-619-8622",
+    "website": "https://www.flyporter.com/"
+  },
+  {
+    "id": 105,
+    "name": "Sunwing Airlines",
+    "category": "compagnies aériennes",
+    "description": "Spécialisée dans les voyages d'agrément, offrant des vols vers des destinations touristiques populaires, avec une flotte moderne et des services de haute qualité.",
+    "phone_number": "1-877-877-1755",
+    "website": "https://www.sunwingagents.ca/"
+  },
+  {
+    "id": 106,
+    "name": "Flair Airlines",
+    "category": "compagnies aériennes",
+    "description": "Offrant des vols régionaux et nationaux, avec une approche axée sur le client et des tarifs compétitifs, ainsi qu'une expérience de vol unique avec ses avions à réaction.",
+    "phone_number": "1-833-711-2333",
+    "website": "https://flyflair.com/"
+  },
+  {
+    "id": 107,
+    "name": "Air Canada Rouge",
+    "category": "compagnies aériennes",
+    "description": "Filiale d'Air Canada, offrant des vols vers des destinations touristiques populaires, avec une flotte moderne et des services de haute qualité.",
+    "phone_number": "1-800-247-2262",
+    "website": "https://www.voyagezrouge.com/"
+  },
+  {
+    "id": 108,
+    "name": "United Airlines",
+    "category": "compagnies aériennes",
+    "description": "L'une des plus grandes compagnies aériennes américaines, offrant des vols nationaux et internationaux vers plus de 350 destinations, avec une flotte moderne et des services de haute qualité.",
+    "phone_number": "1-800-864-8331",
+    "website": "https://www.united.com/"
+  },
+  {
+    "id": 109,
+    "name": "Delta Air Lines",
+    "category": "compagnies aériennes",
+    "description": "L'une des plus grandes compagnies aériennes américaines, offrant des vols nationaux et internationaux vers plus de 300 destinations, avec une flotte moderne et des services de haute qualité.",
+    "phone_number": "1-800-221-1212",
+    "website": "https://www.delta.com/"
+  },
+  {
+    "id": 110,
+    "name": "Air France",
+    "category": "compagnies aériennes",
+    "description": "La compagnie aérienne nationale française, offrant des vols nationaux et internationaux vers plus de 200 destinations, avec une flotte moderne et des services de haute qualité.",
+    "phone_number": "+33 1 57 02 10 58",
+    "website": "https://wwws.airfrance.ca/"
+  },
+  {
+    "id": 201,
+    "name": "Carnival Cruise Line",
+    "category": "cruise lines",
+    "description": "One of the largest and most popular cruise lines in the world, offering a wide range of itineraries and onboard amenities.",
+    "phone_number": "1-800-764-7419",
+    "website": "https://www.carnival.com"
+  },
+  {
+    "id": 202,
+    "name": "Royal Caribbean International",
+    "category": "cruise lines",
+    "description": "A leading global cruise line, offering innovative ships, exciting itineraries, and exceptional onboard experiences.",
+    "phone_number": "1-800-762-0708",
+    "website": "https://www.royalcaribbean.com"
+  },
+  {
+    "id": 203,
+    "name": "Norwegian Cruise Line",
+    "category": "cruise lines",
+    "description": "A premium cruise line, offering a relaxed, freestyle cruising experience with a wide range of onboard amenities and activities.",
+    "phone_number": "1-866-234-7350",
+    "website": "https://www.ncl.com"
+  },
+  {
+    "id": 204,
+    "name": "Disney Cruise Line",
+    "category": "cruise lines",
+    "description": "A family-friendly cruise line, offering magical, Disney-themed experiences and activities onboard and ashore.",
+    "phone_number": "1-800-951-3532",
+    "website": "https://disneycruise.disney.go.com"
+  },
+  {
+    "id": 205,
+    "name": "Princess Cruises",
+    "category": "cruise lines",
+    "description": "A premium cruise line, offering a wide range of itineraries, onboard amenities, and exceptional service.",
+    "phone_number": "1-800-774-6237",
+    "website": "https://www.princess.com"
+  },
+  {
+    "id": 206,
+    "name": "Holland America Line",
+    "category": "cruise lines",
+    "description": "A premium cruise line, offering a classic, elegant cruising experience with a wide range of onboard amenities and activities.",
+    "phone_number": "1-877-932-4259",
+    "website": "(link unavailable)"
+  },
+  {
+    "id": 207,
+    "name": "Celebrity Cruises",
+    "category": "cruise lines",
+    "description": "A premium cruise line, offering a modern, luxurious cruising experience with a wide range of onboard amenities and activities.",
+    "phone_number": "1-800-437-3111",
+    "website": "(link unavailable)"
+  },
+  {
+    "id": 208,
+    "name": "MSC Cruises",
+    "category": "cruise lines",
+    "description": "A global cruise line, offering a wide range of itineraries, onboard amenities, and exceptional service.",
+    "phone_number": "1-877-665-4655",
+    "website": "(link unavailable)"
+  },
+  {
+    "id": 209,
+    "name": "Costa Cruises",
+    "category": "cruise lines",
+    "description": "A European-based cruise line, offering a wide range of itineraries, onboard amenities, and exceptional service.",
+    "phone_number": "1-800-462-6782",
+    "website": "(link unavailable)"
+  },
+  {
+    "id": 210,
+    "name": "Azamara Club Cruises",
+    "category": "cruise lines",
+    "description": "A luxury cruise line, offering intimate, boutique-style ships and immersive destination experiences.",
+    "phone_number": "1-877-999-9553",
+    "website": "(link unavailable)"
+  }
+]
